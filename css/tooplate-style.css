@@ -128,6 +128,12 @@ p {
 	padding-bottom: 80px;
 }
 
+#logo {
+	width: 10%;
+    transform: rotate(45deg);
+    margin-right: 10px;
+}
+
 #tm-section-1 {	
 	background-image: url('../img/home-page-hero.jpg');	
 	height: 515px;
