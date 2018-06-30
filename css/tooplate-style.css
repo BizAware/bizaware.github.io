@@ -132,6 +132,11 @@ p {
 	height: 515px;
 }
 
+#dubai-tm-section-1 {	
+	background-image: url('../img/dubai-hero.jpg');
+	height: 515px;
+}
+
 #tm-section-5 { background-image: url('../img/bg-img-2.jpg'); }
 
 #tm-section-6 {
