@@ -575,3 +575,7 @@ video {
 		width: 100%;
 	}	
 }
+
+footer a {
+	padding: 0 10px;
+}
