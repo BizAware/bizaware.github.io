@@ -128,7 +128,7 @@ p {
 }
 
 #tm-section-1 {	
-	background-image: url('../img/bg-img-1.jpg');	
+	background-image: url('../img/home-page-hero.jpg');	
 	height: 515px;
 }
 
@@ -262,7 +262,8 @@ select.tm-select::-ms-expand { display: none; }
 
 .tm-section-title-2 {
 	font-size: 3.2rem;
-    font-weight: 600;
+	font-weight: 600;
+
 }
 
 .tm-section-subtitle {
@@ -497,7 +498,8 @@ video {
 	.tm-media-container,
 	.tm-media-title-container {
 	    max-width: 320px;
-	    margin-right: auto;
+		margin-right: auto;
+		
 	}
 
 	.tm-media-title-container {
