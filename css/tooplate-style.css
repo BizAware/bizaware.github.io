@@ -84,21 +84,20 @@ p {
 
 .nav-item {
 	background: transparent;
-	border-left: 1px solid #ccc;
 	cursor: pointer;
 	font-size: 0.8rem;
 	font-weight: 300;
     text-transform: uppercase;
     padding: 0;
-    transition: all 0.5s ease;
+	transition: all 0.5s ease;
 }
 
-.nav-item:last-child { border-right: 1px solid #ccc; }
+
 
 .nav-link.active,
 .nav-link:hover {
-	color: white;
-	background: #ee5057;	
+	color: #ee5057;
+	
 }
 
 .tm-top-bar .navbar-expand-lg .navbar-nav .nav-link { padding: 50px 35px; }
@@ -131,11 +130,6 @@ p {
 
 #tm-section-1 {	
 	background-image: url('../img/home-page-hero.jpg');	
-	height: 515px;
-}
-
-#dubai-tm-section-1 {	
-	background-image: url('../img/dubai-hero.jpg');
 	height: 515px;
 }
 
@@ -307,9 +301,10 @@ select.tm-select::-ms-expand { display: none; }
 .tm-btn-white-bordered {
 	display: inline-block;
 	padding: 10px 25px;
-	border: 2px solid white;
+	border: 2px solid black;
 	background: transparent;
 	text-transform: uppercase;
+	border-radius: 20px;
 }
 
 .tm-btn-white-bordered:hover,
